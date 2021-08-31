@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itzzz_rehan_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rehangoraya@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rehangoraya05@gmail.com)
+[![Twitter](https://img.shields.io/badge/-twitter-0078D4?style=flat&logo=twitter-Outlook&logoColor=white)](https://twitter.com/itzzz_Rehan)
 <br />
 <br />
 
