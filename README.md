@@ -15,7 +15,7 @@
 
 
 - 👨🏽‍💻 I’m currently working on [react-native](https://github.com/facebook/react-native);
-- 🌱 I’m currently learning pytorch and Continous Integration(CircleCI) with pytorch and react-native; 
+- 🌱 I’m currently learning Python,Redux and react-native; 
 - 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I have a degree in Software engineering;
