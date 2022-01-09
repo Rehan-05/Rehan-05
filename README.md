@@ -51,6 +51,6 @@
   <img src="https://profile-counter.glitch.me/Rehan-05/count.svg" />
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
-</p>
+</p> -->
