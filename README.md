@@ -1,3 +1,7 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Rehan-05/count.svg" />
+</p>
 ### Hi there 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rehan-05/)
