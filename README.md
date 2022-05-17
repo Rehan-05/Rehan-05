@@ -15,8 +15,8 @@
 *Talking about Personal Stuffs:*
 
 
-- 👨🏽‍💻 I’m currently working on [React,React-native,Redux,Mongooes Db,Node Js](https://github.com/facebook/react-native);
-- 🌱 I’m currently learning Python,Node Js,React and React-native; 
+- 👨🏽‍💻 I’m currently working on [React-native,React,Redux,Node Js,Mongooes Db,Express Js,Electron Js](https://github.com/facebook/react-native);
+- 🌱 I’m currently learning Blockchain,Web3,Python,AWS; 
 - 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I have a degree in Software engineering;
