@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I have a degree in Software engineering😁;
-- 📫 How to reach me: rehangoraya05@gmail.com;
+- 📫 How to reach me: rehangoraya05@gmail.com
 
 
 
