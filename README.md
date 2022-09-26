@@ -13,7 +13,7 @@
   
   👀✈️ Looking Forward for Great investors to invest in out Start-Up name Cryptum Technologies ✈️👀
   
-              🤜Always Open for New Projects. Thank You!🤛
+   🤜Always Open for New Projects. Thank You!🤛
   
 *Talking about Personal Stuffs:*
 
