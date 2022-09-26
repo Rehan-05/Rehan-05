@@ -11,6 +11,9 @@
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
+  👀✈️ Looking Forward for Great investors to invest in out Start-Up name Cryptum Technologies ✈️👀
+  
+              🤜Always Open for New Projects. Thank You!🤛
   
 *Talking about Personal Stuffs:*
 
