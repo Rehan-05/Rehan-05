@@ -11,7 +11,7 @@
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-  👀✈️ Start-Up named Cryptum Technologies ✈️👀
+  👀✈️ Mid-Chain Technologies ✈️👀
   
    🤜Always Open for New Projects. Thank You!🤛
   
