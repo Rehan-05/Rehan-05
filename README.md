@@ -20,7 +20,7 @@
 
 - 👨🏽‍💻 I’m currently working on [React-native,React,Redux,Node Js,Mongooes Db,Express Js,Electron Js](https://github.com/facebook/react-native);
 - 🚁 I also have expertise in Git,Docker,Cloud Services like AWS and Azure;
-- 🌱 I’m currently learning Blockchain,Web3,Python; 
+- 🌱 I’m currently working in Data science; 
 - 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I have a degree in Software engineering😁
