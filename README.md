@@ -11,7 +11,6 @@
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-   🤜Always Open for New Projects. Thank You!🤛
   
 *Talking about Personal Stuffs:*
 
