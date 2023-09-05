@@ -15,7 +15,7 @@
 *Talking about Personal Stuffs:*
 
 
-- 👨🏽‍💻 I’m currently working on [React-native, React, Node Js, Mongo Db, Express Js, Electron Js, Nest Js, Next Js](https://github.com/facebook/react-native);
+- 👨🏽‍💻 I’m currently working on [React-native, React, Node Js, Mongo Db,Firebase, Firebase Cloud funtions, Express Js, Electron Js, Nest Js, Next Js](https://github.com/facebook/react-native);
 - 🚁 I also have expertise in Git,Docker,Cloud Services like AWS and Azure;
 - 🌱 I’m currently working in JS stack; 
 - 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
