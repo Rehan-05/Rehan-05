@@ -11,11 +11,9 @@
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-   <img height="200" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
-   <img height="200" align="right"  src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png">
-   <img height="200" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan-05&layout=donut">
- 
-  
+   <img height="150" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
+   <img height="150" align="right"  src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/javascript/javascript.png">
+   
 *Talking about Personal Stuffs:*
 
 
