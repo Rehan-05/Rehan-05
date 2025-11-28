@@ -28,6 +28,36 @@ AI-powered automation systems
 
 I’m currently expanding my research-oriented skills toward multi-agent AI systems, autonomous reasoning, and knowledge-augmented models, with a long-term goal to become an expert in Artificial Intelligence. My academic interest lies in agentic systems, human-AI interaction, and applied machine learning—focusing on how intelligent systems can support real-world decision-making
 
+🔭 What I’m Working On
+
+Building AI-driven applications using LangChain, LangGraph, FastAPI, and vector databases
+
+Developing autonomous agents for customer support automation, research workflows, and task execution
+
+Exploring RAG optimization, prompt engineering, and agentic reasoning frameworks
+
+Engineering full-stack systems that integrate mobile, web, and cloud infrastructure
+
+
+🌱 Current Focus
+
+Advanced LLM systems & multi-agent architectures
+
+Retrieval-Augmented Generation (RAG)
+
+Applied ML for real-world product workflows
+
+
+💬 Ask Me About
+
+Full-stack development • Mobile applications • LLM agents • RAG • AI product engineering • React Native • FastAPI • Node.js
+
+⚡ Fun Fact
+
+I hold a Bachelor’s degree in Software Engineering, and my journey has evolved from full-stack development into building intelligent, research-driven AI systems.
+
+
+
 *Languages and Tools:*  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
