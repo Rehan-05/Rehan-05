@@ -14,13 +14,19 @@
 *Talking about Personal Stuffs:*
 
 
-- 👨🏽‍💻 I’m currently working on [React-native, React, Node Js, Mongo Db,Firebase, Firebase Cloud funtions, Express Js, Electron Js, Nest Js, Next Js](https://github.com/facebook/react-native);
-- 🚁 I also have expertise in Git,Docker,Cloud Services like AWS and Azure;
-- 🌱 I’m currently working in JS stack; 
-- 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡ Fun-Fact: I have a degree in Software engineering😁
-- 📫 How to reach me: 
+I am a Generative AI Software Developer and Full-Stack Engineer with hands-on experience building intelligent mobile and web applications. My work combines JavaScript ecosystems (React, React Native, Node.js) with modern AI technologies, including:
+
+Large Language Models (LLMs)
+
+RAG pipelines
+
+LangChain & LangGraph agents
+
+Vector databases & semantic search
+
+AI-powered automation systems
+
+I’m currently expanding my research-oriented skills toward multi-agent AI systems, autonomous reasoning, and knowledge-augmented models, with a long-term goal to become an expert in Artificial Intelligence. My academic interest lies in agentic systems, human-AI interaction, and applied machine learning—focusing on how intelligent systems can support real-world decision-making
 
 *Languages and Tools:*  
 
